@@ -1,0 +1,13 @@
+.CodeMirror {
+  background-color: transparent !important;
+  color: inherit;
+}
+
+.CodeMirror .CodeMirror-cursor {
+  border-left: 1px solid white !important;
+}
+
+.editor-toolbar button:hover {
+    color: black !important;
+}
+
